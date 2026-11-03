@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "vkv033-gEdp.aternos.me:14202",
+    "port": 14202,
     "version": "",
     "try-creative": false
   },
